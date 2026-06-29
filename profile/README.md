@@ -4,7 +4,7 @@ No accounts. No setup. Upload a file, get a link and QR code back. Files delete 
 
 <!--![Capsule demo](../demo/video2.gif)-->
 
-**Use it right now at [withcapsule.dev](https://withcapsule.dev) or via curl:**
+**Use it right now at [withcapsule.dev](https://withcapsule.dev?utm_source=github&utm_medium=readme&utm_campaign=capsule_main) or via curl:**
 ```sh
 curl -F "f=@file.txt" https://send.withcapsule.dev/upload
 ```
