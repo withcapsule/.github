@@ -17,4 +17,4 @@ curl -F "f=@file.txt" https://send.withcapsule.dev/upload
 | 💻 [CLI](https://github.com/withcapsule/CLI) | Terminal client with encryption, history, custom servers |
 | 📱 [Android](https://github.com/withcapsule/Android) | Native & open source app |
 | ⚙️ [Server](https://github.com/withcapsule/Server) | Rust / Axum backend, easily self-hostable |
-| 📖 [Docs]((https://docs.withcapsule.dev/?utm_source=github&utm_medium=org_readme&utm_campaign=table) | Full documentation |
+| 📖 [Docs](https://docs.withcapsule.dev/?utm_source=github&utm_medium=org_readme&utm_campaign=table) | Full documentation |
