@@ -13,7 +13,7 @@ curl -F "f=@file.txt" https://send.withcapsule.dev/upload
 
 | | |
 |---|---|
-| 🌐 [WebUI]([https://github.com/withcapsule/WebUI](https://withcapsule.dev?utm_source=github&utm_medium=org_readme&utm_campaign=table)) | Browser client, easiest to start with |
+| 🌐 [WebUI](https://withcapsule.dev?utm_source=github&utm_medium=org_readme&utm_campaign=table) | Browser client, easiest to start with |
 | 💻 [CLI](https://github.com/withcapsule/CLI) | Terminal client with encryption, history, custom servers |
 | 📱 [Android](https://github.com/withcapsule/Android) | Native & open source app |
 | ⚙️ [Server](https://github.com/withcapsule/Server) | Rust / Axum backend, easily self-hostable |
